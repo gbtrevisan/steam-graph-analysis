@@ -1,0 +1,8 @@
+pandas>=2.0
+numpy>=1.26
+networkx>=3.0
+matplotlib>=3.7
+python-louvain>=0.16
+kagglehub>=0.2
+jupyter>=1.0
+notebook>=7.0
